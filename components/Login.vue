@@ -44,7 +44,7 @@
           </b-form-group>
           <b-row class="justify-content-between my-auto m-0">
             <b-button type="submit" variant="success">Ingresar</b-button>
-            <b-link to="registro" class="btn btn-primary">Registrarme</b-link>
+            <b-link to="/registro" class="btn btn-primary">Registrarme</b-link>
           </b-row>
         </b-form>
       </b-col>
